@@ -17,9 +17,7 @@ Links do projeto:
 
 # 1. Desenvolvimento do Projeto
 
-**1.1 Modelos de Sistemas**
-
-**1.1.1 Loja Online para a ByCrib**
+**Loja Online para a ByCrib**
 
 A ByCrib é uma loja física especializada em streetwear e sneakers, localizada em Joinville, SC. Atualmente, as vendas ocorrem apenas presencialmente ou por meio de atendimento no WhatsApp, sem um sistema estruturado de e-commerce. Essa limitação reduz o alcance da loja e dificulta a experiência dos clientes que preferem comprar online.
 
