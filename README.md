@@ -73,7 +73,7 @@ O sistema contará com dois níveis de acesso:
 - **Banco de Dados**: MySQL
 - **Controle de Versão**: Git
 
-# 4. Modelagem de Dados
+## 4. Modelagem de Dados
 
 ## 4.1 Modelo Entidade-Relacionamento (MER)
 
@@ -149,7 +149,7 @@ O MER é uma representação visual que auxilia no entendimento de como os dados
 - **Regras de Negócio**: A listagem dos produtos deve ser acessível tanto por administradores quanto por clientes.
 - **Exemplo Prático**: O sistema exibe uma lista de produtos na interface do cliente, com todas as informações essenciais, como nome e preço, e com um botão de "Comprar" para cada item.
 
-# 5. Requisitos Funcionais
+## 5. Requisitos Funcionais
 
 **Requisitos Funcionais** descrevem o que o sistema deve ser capaz de fazer, garantindo que todas as funcionalidades estejam implementadas. Eles são a base para o desenvolvimento do sistema e ajudam na validação do mesmo.
 
@@ -164,7 +164,7 @@ O MER é uma representação visual que auxilia no entendimento de como os dados
 - **RF009** – O sistema deve permitir o upload de imagens de produtos.
 - **RF010** – O sistema deve permitir a listagem completa dos produtos com nome, descrição, marca, preço e estoque.
 
-# 6. Regras de Negócio (RN)
+## 6. Regras de Negócio (RN)
 
 **Regras de Negócio** definem as condições e limitações dentro das quais o sistema opera. Elas são essenciais para garantir que as operações do sistema sigam as políticas e objetivos da empresa.
 - **RN001** – Somente usuários com perfil de administrador podem cadastrar, editar ou remover produtos.
@@ -174,7 +174,7 @@ O MER é uma representação visual que auxilia no entendimento de como os dados
 - **RN005** – O e-mail informado no cadastro de usuários deve ser único no sistema.
 - **RN006** – Senhas de usuários devem conter no mínimo 6 caracteres.
 
-# 7. Requisitos Não Funcionais (RNF)
+## 7. Requisitos Não Funcionais (RNF)
 
 **Requisitos Não Funcionais** são características do sistema que garantem a sua qualidade, desempenho e segurança, sem estarem diretamente relacionados às funcionalidades do sistema.
 - **RNF001** – O sistema deve ser desenvolvido utilizando Vue.js no frontend e Django com Python no backend.
